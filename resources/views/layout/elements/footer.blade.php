@@ -18,7 +18,7 @@
 			<p><a href="mailto:info@example.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>info@example1.com</a></p>
 		</div>
 		<div class="clearfix"></div>
-		
+
 	</div>
 </div>
 <div class="copy-right">
