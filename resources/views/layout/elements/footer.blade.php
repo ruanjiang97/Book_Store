@@ -1,3 +1,5 @@
+<div class="container">
+
 <div class="footer-bottom">
 	<h2><a href="index.html"><b>T<br>H<br>E</b>Big Store<span>The Best Supermarket</span></a></h2>
 	<p class="fo-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
@@ -23,4 +25,5 @@
 </div>
 <div class="copy-right">
 	<p> © 2016 Big store. All Rights Reserved | Design by  <a href="http://w3layouts.com/"> W3layouts</a></p>
+</div>
 </div>

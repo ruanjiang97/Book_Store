@@ -17,4 +17,12 @@ Route::get('/', function () {
 
 Route::get('/home', function () {
     return view('pages.home');
-});
+})->name('home');
+
+Route::get('login', function () {
+    return view('pages.login');
+})->name('login');
+
+Route::get('/register', function () {
+    return view('pages.register');
+})->name('register');
