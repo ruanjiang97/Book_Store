@@ -453,7 +453,9 @@ h2.title {
 }
 
 .productinfo img{
-  width: 100%;
+  width: 100;
+  height: 132;
+  margin-bottom: 7px;
 }
 
 .productinfo{
@@ -475,6 +477,10 @@ h2.title {
 .single-products:hover .product-overlay {
   display:block;
   height:100%;
+}
+
+.book_choose div:hover{
+  border: 0.02px solid green;
 }
 
 
@@ -519,6 +525,7 @@ h2.title {
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   margin-bottom: 25px;
+  margin-top: 8px;
 }
 
 .add-to-cart:hover {

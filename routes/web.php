@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('pages.home');
 });
 
+Route::get('/result-search', function () {
+    return view('pages.result_search');
+})->name('result-search');
+
 Route::get('/cart', function () {
     return view('pages.carts');
 })->name('cart');
