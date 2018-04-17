@@ -26,3 +26,7 @@ Route::get('login', function () {
 Route::get('/register', function () {
     return view('pages.register');
 })->name('register');
+
+Route::get('book_detail', function () {
+    return view('pages.book_detail');
+})->name('book_detail');

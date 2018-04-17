@@ -10,7 +10,7 @@
 				<div class="col-sm-4">
 					<div class="product-image-wrapper">
 						<div class="single-products">
-							<a href="#">
+							<a href="{{ route('book_detail') }}">
 							<div class="productinfo text-center">
 								<img src="images/home/bia-1-minh-la-ca.u5505.d20170803.t083606.108681.jpg" class="img-fluid" alt="">
 								<h2>$56</h2>
@@ -24,7 +24,7 @@
 				<div class="col-sm-4">
 					<div class="product-image-wrapper">
 						<div class="single-products">
-							<a href="#">
+							<a href="{{ route('book_detail') }}">
 							<div class="productinfo text-center">
 								<img src="images/home/bia-1-minh-la-ca.u5505.d20170803.t083606.108681.jpg" alt="">
 								<h2>$56</h2>
@@ -38,7 +38,7 @@
 				<div class="col-sm-4">
 					<div class="product-image-wrapper">
 						<div class="single-products">
-							<a href="#">
+							<a href="{{ route('book_detail') }}">
 							<div class="productinfo text-center">
 								<img src="images/home/bia-1-minh-la-ca.u5505.d20170803.t083606.108681.jpg" alt="">
 								<h2>$56</h2>
@@ -54,7 +54,7 @@
 				<div class="col-sm-4">
 					<div class="product-image-wrapper">
 						<div class="single-products">
-							<a href="#">
+							<a href="{{ route('book_detail') }}">
 							<div class="productinfo text-center">
 								<img src="images/home/bia-1-minh-la-ca.u5505.d20170803.t083606.108681.jpg" alt="">
 								<h2>$56</h2>
@@ -68,7 +68,7 @@
 				<div class="col-sm-4">
 					<div class="product-image-wrapper">
 						<div class="single-products">
-							<a href="#">
+							<a href="{{ route('book_detail') }}">
 							<div class="productinfo text-center">
 								<img src="images/home/bia-1-minh-la-ca.u5505.d20170803.t083606.108681.jpg" alt="">
 								<h2>$56</h2>
@@ -82,7 +82,7 @@
 				<div class="col-sm-4">
 					<div class="product-image-wrapper">
 						<div class="single-products">
-							<a href="#">
+							<a href="{{ route('book_detail') }}">
 							<div class="productinfo text-center">
 								<img src="images/home/bia-1-minh-la-ca.u5505.d20170803.t083606.108681.jpg" alt="">
 								<h2>$56</h2>
