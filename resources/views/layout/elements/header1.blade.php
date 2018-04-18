@@ -6,8 +6,8 @@
 					<ul>
 						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:nh.giang261197@gmail.com">nh.giang261197@gmail.com</a></li>
 						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>01658215007</li>
-						<li><i class="glyphicon glyphicon-log-in" aria-hidden="true"></i><a href="{{ route('login') }}">Login</a></li>
-						<li><i class="glyphicon glyphicon-book" aria-hidden="true"></i><a href="{{ route('register') }}">Register</a></li>
+						<li><i class="glyphicon glyphicon-log-in" aria-hidden="true"></i><a href="{{ route('login') }}">Đăng nhập</a></li>
+						<li><i class="glyphicon glyphicon-book" aria-hidden="true"></i><a href="{{ route('register') }}">Đăng ký</a></li>
 					</ul>
 				</div>
 				<div class="header-grid-right animated wow slideInRight animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInRight;">
@@ -22,9 +22,9 @@
 			</div>
 			<div class="logo-nav">
 				<div class="logo-nav-left animated wow zoomIn animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
-					<h1><a href="{{ route('home') }}">Best Store <span>Shop anywhere</span></a></h1>
+					<h1><a href="{{ route('home') }}">Best Store <span class="fix">Mua sách ở mọi nơi</span></a></h1>
 				</div>
-				<div class="logo-nav-left1">
+				{{-- <div class="logo-nav-left1">
 					<nav class="navbar navbar-default">
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header nav_2">
@@ -122,12 +122,12 @@
 							</ul>
 						</div>
 					</nav>
-				</div>
+				</div> --}}
 				<div class="logo-nav-right">
 					<div class="search-box">
-						<div id="sb-search" class="sb-search">
+						<div id="sb-search" class="sb-search sb-search-open">
 							<form >
-								<input class="sb-search-input" placeholder="Enter your search term..." type="search" id="search">
+								<input class="sb-search-input" placeholder="Nhập sách cần tìm..." type="search" id="search">
 								<input class="sb-search-submit" type="submit" value="">
 								<span class="sb-icon-search"> </span>
 							</form>

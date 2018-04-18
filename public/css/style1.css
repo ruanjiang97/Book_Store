@@ -95,7 +95,7 @@ ul.social-icons li a.instagram:hover{
     font-size: .2em;
     line-height: 0;
     text-transform: uppercase;
-    letter-spacing: 12px;
+    letter-spacing: 6px;
     color: #222222;
     padding-left: .3em;
 }
@@ -173,7 +173,7 @@ ul.multi-column-dropdown h6 {
     padding: 29px 18px 0;
 }
 .search-box {
-    margin-top: 1.9em;
+    margin-top: 1.4em;
 }
 /*start search*/
 .sb-search {
@@ -1561,4 +1561,3 @@ td.invert-image a img {
     top: 0.1em;
 }
 /*-- //checkout --*/
-

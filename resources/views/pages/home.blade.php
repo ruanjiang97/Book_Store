@@ -2,8 +2,8 @@
 @section('content')
 <br>
 <br>
-<div class="recommended_items"><!--recommended_items-->
-	<h2 class="title text-center">recommended items</h2>
+<div class="recommended_items left-sidebar"><!--recommended_items-->
+	<h2 class="title text-center">Sách bán chạy</h2>
 	<div id="recommended-item-carousel" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="item active">	
@@ -104,10 +104,8 @@
 	</div>
 </div>
 
-
-
-<div class="recommended_items"><!--recommended_items-->
-	<h2 class="title text-center">recommended items</h2>
+<div class="recommended_items left-sidebar"><!--recommended_items-->
+	<h2 class="title text-center">Sách mới</h2>
 	<div id="recommended-item-carousel" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="item active">	
@@ -213,11 +211,11 @@
 <div class="category-tab"><!--category-tab-->
 	<div class="col-sm-12">
 		<ul class="nav nav-tabs">
-			<li class="active"><a href="#tshirt" data-toggle="tab">T-Shirt</a></li>
-			<li><a href="#blazers" data-toggle="tab">Blazers</a></li>
-			<li><a href="#sunglass" data-toggle="tab">Sunglass</a></li>
-			<li><a href="#kids" data-toggle="tab">Kids</a></li>
-			<li><a href="#poloshirt" data-toggle="tab">Polo shirt</a></li>
+			<li class="active"><a href="#tshirt" data-toggle="tab">Tin học</a></li>
+			<li><a href="#blazers" data-toggle="tab">Y học</a></li>
+			<li><a href="#sunglass" data-toggle="tab">Điện tử</a></li>
+			<li><a href="#kids" data-toggle="tab">Cơ khí</a></li>
+			<li><a href="#poloshirt" data-toggle="tab">Khoa học</a></li>
 		</ul>
 	</div>
 	<div class="tab-content">
