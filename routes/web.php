@@ -38,3 +38,6 @@ Route::get('/register', function () {
 Route::get('book_detail', function () {
     return view('pages.book_detail');
 })->name('book_detail');
+Route::get('user_information',function(){
+    return view('pages.user_information');
+})->name('user_information');
